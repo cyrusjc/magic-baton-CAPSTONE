@@ -11,6 +11,7 @@ _(as in, a directory of directories)_
 | magic_baton | Altium project for the magic baton |
 
 Final Product:
+
 ![image](https://user-images.githubusercontent.com/32754336/114271862-657afd00-99c8-11eb-8530-0652026e58a3.png)
 
 Rev A.
